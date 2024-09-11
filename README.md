@@ -1,11 +1,11 @@
-![MasterHead](https://png.pngtree.com/background/20230617/original/pngtree-web-banner-3d-rendered-ui-for-seo-data-analytics-and-future-picture-image_3704909.jpg)
+[MasterHead](https://png.pngtree.com/background/20230617/original/pngtree-web-banner-3d-rendered-ui-for-seo-data-analytics-and-future-picture-image_3704909.jpg)
 <h1 align="center">Hi 👋, I'm Sushma Champannavar</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 <img align="right" alt="Coding" width="400" src="https://rte.mx/wp-content/uploads/2020/05/LinesCreatives_animation-9.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sushmachampannavar&label=Profile%20views&color=0e75b6&style=flat" alt="sushmachampannavar" /> </p>
 
-- 🔭 I’m currently working on **Supermarket**
+- 🔭 I’m currently working on **HR Analytics**
 
 - 🌱 I’m currently learning **Python, Statistics**
 
